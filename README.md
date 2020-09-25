@@ -24,20 +24,20 @@ Rafael Pinto Cajé
 
 Linkedin - https://www.linkedin.com/in/rafael-p-caje-8046826b/
 
-Email: rafa_pc_sjc@hotmail.com
+Email: rafael.caje@fatec.sp.gov.br
 
 Higor dos Santos Mariano
 
-Email: higormariano10@gmail.com
+Email: higor.mariano@fatec.sp.gov.br
 
 Felippe de Lima Luna
 
-Email: flp.luna@hotmail.com
+Email: felippe.luna@fatec.sp.gov.br
 
 Caio Eduardo Monteiro Sendreto
 
-Email: 
+Email: caio.sendreto@fatec.sp.gov.br
 
 Anderson Lira
 
-Email: 
+Email: anderson.lira2@fatec.sp.gov.br
