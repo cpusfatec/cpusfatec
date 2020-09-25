@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Grupo ADS - Projeto Integrador 1º Semestre 2020
 Projeto: Site: CPU - Centro de Programação Universitário
-Integrantes:
-Rafael Pinto Cajé
-Linkedin - https://www.linkedin.com/in/rafael-p-caje-8046826b/
+Integrantes:;
+Rafael Pinto Cajé;
+Linkedin - https://www.linkedin.com/in/rafael-p-caje-8046826b/;
 Email: rafa_pc_sjc@hotmail.com
 
 Higor dos Santos Mariano
