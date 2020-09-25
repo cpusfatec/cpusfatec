@@ -20,24 +20,24 @@ Projeto: Site: CPU - Centro de Programação Universitário
 
 Integrantes:
 
-Rafael Pinto Cajé
+Rafael Pinto Cajé - Scrum Master
 
 Linkedin - https://www.linkedin.com/in/rafael-p-caje-8046826b/
 
 Email: rafael.caje@fatec.sp.gov.br
 
-Higor dos Santos Mariano
+Higor dos Santos Mariano - Time de Desenvolvimento
 
 Email: higor.mariano@fatec.sp.gov.br
 
-Felippe de Lima Luna
+Felippe de Lima Luna - Time de Desenvolvimento
 
 Email: felippe.luna@fatec.sp.gov.br
 
-Caio Eduardo Monteiro Sendreto
+Caio Eduardo Monteiro Sendreto - Time de Desenvolvimento
 
 Email: caio.sendreto@fatec.sp.gov.br
 
-Anderson Lira
+Anderson Lira - Time de Desenvolvimento
 
 Email: anderson.lira2@fatec.sp.gov.br
