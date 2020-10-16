@@ -21,7 +21,7 @@ Projeto: Site: CPU - Centro de Programação Universitário
 ### Integrantes:
 
 Rafael Pinto Cajé - Scrum Master
-[Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b) | [Guithub](https://github.com/Rafael-Caje)
+|[Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b) | [Guithub](https://github.com/Rafael-Caje) |
 Email: rafael.caje@fatec.sp.gov.br
 
 Felippe de Lima Luna - Time de Desenvolvimento
