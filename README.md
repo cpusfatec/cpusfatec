@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Grupo ADS - Projeto Integrador 1º Semestre 2020
+#### Grupo ADS - Projeto Integrador 1º Semestre 2020
 
 Projeto: Site: CPU - Centro de Programação Universitário
 
-Integrantes:
+### Integrantes:
 
 Rafael Pinto Cajé - Scrum Master
 
-Linkedin - https://www.linkedin.com/in/rafael-p-caje-8046826b/
+[Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b) | [Guithub](https://github.com/Rafael-Caje)
 
 Email: rafael.caje@fatec.sp.gov.br
 
