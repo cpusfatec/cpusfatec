@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # Grupo ADS - Projeto Integrador 1º Semestre 2020
 
-Projeto: Site: CPU - Centro de Programação Universitário
+### Projeto
+###### Desenvolvimento de um site para venda de materiais didáticos online (e-commerce). O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
 
 ## Integrantes:
 
