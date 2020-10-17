@@ -84,4 +84,4 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Burndown%2017-10.jpg)
 
 ## Observações
-Na [Sprint 1](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201), tentamos recuperar a pontuação alocada na Sprint 0 que não havia sido concluída, esperávemos terminar mais tarefas para adequar o gráfico burndown a projeção dentro do prazo, porém não foi possível e essas tarefas foram realocadas para a próxima etapa (Sprint 2).
+Na [Sprint 1](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201), tentamos recuperar a pontuação alocada na Sprint 0 que não havia sido concluída, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo, porém não foi possível e essas tarefas foram realocadas para a próxima etapa (Sprint 2).
