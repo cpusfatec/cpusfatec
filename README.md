@@ -32,11 +32,12 @@ Este projeto propõe o desenvolvimento de um site para venda de materiais didát
 O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
 
 ## Requisitos do Site
-**Nome:** > CPU - Centro de Programação Universitário
-**Matérias**
-> Português (Pontuação e concordância)
-> Matemática (Lógica e Grafos)
-> Arquitetura e Organização de Computadores
-> Lógica de Programação
-> Laboratório de Hardware
-> Inglês
+##### Nome
+- CPU - Centro de Programação Universitário
+##### Matérias
+> Português (Pontuação e concordância);
+> Matemática (Lógica e Grafos);
+> Arquitetura e Organização de Computadores;
+> Lógica de Programação;
+> Laboratório de Hardware;
+> Inglês;
