@@ -4,8 +4,9 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Imagens%20e%20Arquivos%20do%20Projeto/GUITHUB%20logo%201S.png)
 
-## O Projeto
-Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce). O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
+## Disciplinas
+- Programação em Microinformática
+- Laboratório de Hardware
 
 ## Equipe
 
@@ -22,4 +23,20 @@ Este projeto propõe o desenvolvimento de um site para venda de materiais didát
 - Linkedin | [Guithub](https://github.com/Higor-SM) | Email: higor.mariano@fatec.sp.gov.br
 
 ### :mortar_board: Caio Eduardo Monteiro Sendreto - Time de Desenvolvimento
-- Linkedin | Guithub | Email: caio.sendreto@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/caio-sendreto-0736311a2) | [Guithub](https://github.com/Sendreto9116) | Email: caio.sendreto@fatec.sp.gov.br
+
+## O Projeto
+Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce).
+
+## Objetivo
+O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
+
+## Requisitos do Site
+>**Nome:**  CPU - Centro de Programação Universitário
+>**Matérias**
+   > Português (Pontuação e concordância)
+   > Matemática (Lógica e Grafos)
+   > Arquitetura e Organização de Computadores
+   > Lógica de Programação
+   > Laboratório de Hardware
+   > Inglês
