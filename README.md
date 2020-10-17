@@ -54,5 +54,9 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até a término do projeto, priorizando sempre os trabalhos essenciais nas primeiras Sprints. Após a conclusão de cada Sprint, um novo sprint se inicía. Cada sprint geralmente dura de uma a três semanas.
 - [x] Sprint 0 - 07/09/2020 a 27/09/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%200)
 - [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
-- [ ] Sprint 2 - 
-- [ ] Sprint 3
+- [ ] Sprint 2 - 19/10/2020 a 08/11/2020 _(Em andamento)_
+- [ ] Sprint 3 - 09/11/2020 a 29/11/2020
+- [ ] Apresentação Final - 30/11/2020 a 06/12/2020
+- [ ] Feira de Soluções - 07/12/2020 a 13/12/2020
+
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Sprints%20do%20Projeto.png)
