@@ -7,11 +7,11 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 ## O Projeto
 Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce). O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
 
-## Integrantes
+## Equipe
 
-### Rafael Pinto Cajé - Scrum Master
+- ### Rafael Pinto Cajé - Scrum Master
 
-[Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b) | [Guithub](https://github.com/Rafael-Caje)
+<p>[Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b) | [Guithub](https://github.com/Rafael-Caje)
 
 Email: rafael.caje@fatec.sp.gov.br
 
