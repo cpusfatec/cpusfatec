@@ -51,7 +51,7 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 [SCRUM](https://www.desenvolvimentoagil.com.br/scrum/)
 
 ## Cronograma e Sprints 
-Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até a término do projeto, priorizando sempre os trabalhos essenciais nas primeiras Sprints. Após a conclusão de cada Sprint, um novo sprint se inicía. Cada sprint geralmente dura de uma a três semanas.
+Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até 0 término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
 - [x] Sprint 0 - 07/09/2020 a 27/09/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%200)
 - [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
 - [ ] Sprint 2 - 19/10/2020 a 08/11/2020 _(Em andamento)_
@@ -62,7 +62,26 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Sprints%20do%20Projeto.png)
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Linha%20do%20tempos.PNG)
 
-## Tecnologias
-**Desenvolvimento do Site**
-Backend: PHP e MyQSL
-Frontend: HTML, CSS e JavaScript
+## Tecnologia do Site
+Backend: PHP e MyQSL | Frontend: HTML, CSS e JavaScript
+
+## Ferramentas
+##### Desenvolvimento do Site
+Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
+
+##### Edição de Imagem
+Editor (Variedade de fontes): [Online Image Editor](https://www.online-image-editor.com) | Montagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
+
+##### Organização e controle
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Gerenciamento: [Bitrix](https://www.bitrix24.net/), [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
+
+## Backlog do Produto
+O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Backlog01.png)
+
+## Burndown do Projeto
+O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown deste projeto:
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Burndown%2017-10.jpg)
+
+## Observações
+Na [Sprint 1](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201), tentamos recuperar a pontuação alocada na Sprint 0 que não havia sido concluída, esperávemos terminar mais tarefas para adequar o gráfico burndown a projeção dentro do prazo, porém não foi possível e essas tarefas foram realocadas para a próxima etapa (Sprint 2).
