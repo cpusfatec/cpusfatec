@@ -10,19 +10,19 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 
 ## Equipe
 
-### :mortar_board: Rafael Pinto Cajé - Scrum Master
+#### :mortar_board: Rafael Pinto Cajé - Scrum Master
 - [Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b) | [Guithub](https://github.com/Rafael-Caje) | Email: rafael.caje@fatec.sp.gov.br
 
-### :mortar_board: Felippe de Lima Luna - Time de Desenvolvimento
+#### :mortar_board: Felippe de Lima Luna - Time de Desenvolvimento
 - [Linkedin](https://www.linkedin.com/in/felippe-lima-b12418b5) | [Guithub](https://github.com/Felippe27) | Email: felippe.luna@fatec.sp.gov.br
 
-### :mortar_board: Anderson Lira - Time de Desenvolvimento
+#### :mortar_board: Anderson Lira - Time de Desenvolvimento
 - [Linkedin](https://www.linkedin.com/in/anderson-lira-4b2a5b1b9) | [Guithub](https://github.com/alira1984) | Email: anderson.lira2@fatec.sp.gov.br
 
-### :mortar_board: Higor dos Santos Mariano - Time de Desenvolvimento
+#### :mortar_board: Higor dos Santos Mariano - Time de Desenvolvimento
 - Linkedin | [Guithub](https://github.com/Higor-SM) | Email: higor.mariano@fatec.sp.gov.br
 
-### :mortar_board: Caio Eduardo Monteiro Sendreto - Time de Desenvolvimento
+#### :mortar_board: Caio Eduardo Monteiro Sendreto - Time de Desenvolvimento
 - [Linkedin](https://www.linkedin.com/in/caio-sendreto-0736311a2) | [Guithub](https://github.com/Sendreto9116) | Email: caio.sendreto@fatec.sp.gov.br
 
 ## O Projeto
@@ -60,3 +60,9 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [ ] Feira de Soluções - 07/12/2020 a 13/12/2020
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Sprints%20do%20Projeto.png)
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Linha%20do%20tempos.PNG)
+
+## Tecnologias
+**Desenvolvimento do Site**
+Backend: PHP e MyQSL
+Frontend: HTML, CSS e JavaScript
