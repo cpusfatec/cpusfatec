@@ -34,10 +34,25 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 ## Requisitos do Site
 ##### Nome
 - CPU - Centro de Programação Universitário
-##### Matérias
-> Português (Pontuação e concordância);
-> Matemática (Lógica e Grafos);
-> Arquitetura e Organização de Computadores;
-> Lógica de Programação;
-> Laboratório de Hardware;
-> Inglês;
+##### Materiais a venda
+- Português (Pontuação e concordância)
+- Matemática (Lógica e Grafos)
+- Arquitetura e Organização de Computadores
+- Lógica de Programação
+- Laboratório de Hardware
+- Inglês
+##### Geral
+- Materiais em textos, vídeos e jogos
+- Cadastro/Login
+- Carrinho de compras e lista de materiais do cliente
+- Funções administrativas (gerenciamento e relatórios)
+
+## Metodologia
+[SCRUM](https://www.desenvolvimentoagil.com.br/scrum/)
+
+## Cronograma e Sprints 
+Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até a término do projeto, priorizando sempre os trabalhos essenciais nas primeiras Sprints. Após a conclusão de cada Sprint, um novo sprint se inicía. Cada sprint geralmente dura de uma a três semanas.
+- [x] Sprint 0 - 07/09/2020 a 27/09/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%200)
+- [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
+- [ ] Sprint 2 - 
+- [ ] Sprint 3
