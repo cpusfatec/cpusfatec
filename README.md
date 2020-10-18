@@ -4,6 +4,10 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Imagens%20e%20Arquivos%20do%20Projeto/GUITHUB%20logo%201S.png)
 
+## Neste Artigo
+- [Disciplinas](#Disciplinas)
+- [Equipe](#Equipe)
+
 ## Disciplinas
 - Programação em Microinformática
 - Laboratório de Hardware
@@ -11,19 +15,19 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 ## Equipe
 
 #### :mortar_board: Rafael Pinto Cajé - Scrum Master
-- [Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b) | [Guithub](https://github.com/Rafael-Caje) | Email: rafael.caje@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b/) | [Guithub](https://github.com/Rafael-Caje) | Email: rafael.caje@fatec.sp.gov.br
 
 #### :mortar_board: Felippe de Lima Luna - Time de Desenvolvimento
-- [Linkedin](https://www.linkedin.com/in/felippe-lima-b12418b5) | [Guithub](https://github.com/Felippe27) | Email: felippe.luna@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/felippe-lima-b12418b5/) | [Guithub](https://github.com/Felippe27) | Email: felippe.luna@fatec.sp.gov.br
 
 #### :mortar_board: Anderson Lira - Time de Desenvolvimento
-- [Linkedin](https://www.linkedin.com/in/anderson-lira-4b2a5b1b9) | [Guithub](https://github.com/alira1984) | Email: anderson.lira2@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/anderson-lira-4b2a5b1b9/) | [Guithub](https://github.com/alira1984) | Email: anderson.lira2@fatec.sp.gov.br
 
 #### :mortar_board: Higor dos Santos Mariano - Time de Desenvolvimento
-- Linkedin | [Guithub](https://github.com/Higor-SM) | Email: higor.mariano@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/higor-mariano-5587b81b8/) | [Guithub](https://github.com/Higor-SM) | Email: higor.mariano@fatec.sp.gov.br
 
 #### :mortar_board: Caio Eduardo Monteiro Sendreto - Time de Desenvolvimento
-- [Linkedin](https://www.linkedin.com/in/caio-sendreto-0736311a2) | [Guithub](https://github.com/Sendreto9116) | Email: caio.sendreto@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/caio-sendreto-0736311a2/) | [Guithub](https://github.com/Sendreto9116) | Email: caio.sendreto@fatec.sp.gov.br
 
 ## O Projeto
 Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce).
@@ -73,7 +77,7 @@ Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygn
 Editor (Variedade de fontes): [Online Image Editor](https://www.online-image-editor.com) | Montagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
 
 ##### Organização e controle
-Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Gerenciamento: [Bitrix](https://www.bitrix24.net/), [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
+Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/) | Gerenciamento: [Bitrix24](https://www.bitrix24.net/), [EasyBacklog](https://easybacklog.com/) e [Planner](https://www.microsoft.com/pt-br/microsoft-365/business/task-management-software)
 
 ## Backlog do Produto
 O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
