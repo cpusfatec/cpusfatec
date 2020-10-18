@@ -41,6 +41,7 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 
 ## O Projeto
 Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce).
+> Visite o site: http://cpu.rf.gd/
 
 ## Objetivo
 O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
