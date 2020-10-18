@@ -1,4 +1,4 @@
 # Sprint 1
 
-Nessa Sprint foram excecutadas as seguintes tarefas:
+Abaixo no Backlog da Sprint pode conferir as tarefas executadas e realocadas:
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Sprint%201.png)
