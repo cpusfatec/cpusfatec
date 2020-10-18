@@ -7,6 +7,16 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 ## Neste Artigo
 - [Disciplinas](#Disciplinas)
 - [Equipe](#Equipe)
+- [O Projeto](#o-projeto)
+- [Objetivo](#objetivo)
+- [Requisitos do Site](#requisistos-do-site)
+- [Metodologia](#metodologia)
+- [Cronograma e Sprints](#cronograma-e-sprints
+- [Tecnologia do Site](#tecnologia-do-site)
+- [Ferramentas](#ferramentas)
+- [Backlog do Produto](#backlog-do-produto)
+- [Burndown do Projeto](#burndown-do-projeto)
+- [Observações](#observações)
 
 ## Disciplinas
 - Programação em Microinformática
@@ -55,7 +65,7 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 [SCRUM](https://www.desenvolvimentoagil.com.br/scrum/)
 
 ## Cronograma e Sprints 
-Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até 0 término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
+Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
 - [x] Sprint 0 - 07/09/2020 a 27/09/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%200)
 - [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
 - [ ] Sprint 2 - 19/10/2020 a 08/11/2020 _(Em andamento)_
