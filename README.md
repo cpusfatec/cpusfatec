@@ -11,7 +11,7 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 - [Objetivo](#objetivo)
 - [Requisitos do Site](#requisistos-do-site)
 - [Metodologia](#metodologia)
-- [Cronograma e Sprints](#cronograma-e-sprints
+- [Cronograma e Sprints](#cronograma-e-sprints)
 - [Tecnologia do Site](#tecnologia-do-site)
 - [Ferramentas](#ferramentas)
 - [Backlog do Produto](#backlog-do-produto)
