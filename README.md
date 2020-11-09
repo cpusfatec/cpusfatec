@@ -107,8 +107,8 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 ##### Compra do Material de Português
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/GIF%20DE%20COMPRAS.gif)
 
-```diff
-*Por enquanto Português é o único Material Disponível
+```
+- Por enquanto Português é o único Material Disponível
 ```
 
 ## Observações
