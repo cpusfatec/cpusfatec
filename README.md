@@ -74,8 +74,11 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [ ] Apresentação Final - 30/11/2020 a 06/12/2020
 - [ ] Feira de Soluções - 07/12/2020 a 13/12/2020
 
-![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Sprints%20do%20Projeto.png)
-![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Linha%20do%20tempos.PNG)
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/CARDS.png)
+_CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto._
+
+### Linha do Tempo
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Linha%20do%20tempo.PNG)
 
 ## Tecnologia do Site
 Backend: PHP e MyQSL | Frontend: HTML, CSS e JavaScript
@@ -92,11 +95,11 @@ Reunião: [Discord](https://discord.com/) e [Teams](https://teams.microsoft.com/
 
 ## Backlog do Produto
 O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem e transcritas ao projeto para fácil entendimento dos responsáveis. O ponto central do método Scrum é a criação do Product Backlog, é nele que o projeto começa. A seguir o Backlog do nosso projeto:
-![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Backlog01.png)
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Backlog%20do%20Produto%20Sprint%202.png)
 
 ## Burndown do Projeto
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown deste projeto:
-![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%201/Burndown%2017-10.jpg)
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Burndown.png)
 
 ## Observações
-Na [Sprint 1](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201), tentamos recuperar a pontuação alocada na Sprint 0 que não havia sido concluída, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo, porém não foi possível e essas tarefas foram realocadas para a próxima etapa (Sprint 2).
+Na Sprint 2, projetamos recuperar a pontuação atrasada, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo, conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão fundamentais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no [backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202) da Sprint 2.
