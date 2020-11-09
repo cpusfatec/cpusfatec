@@ -69,15 +69,15 @@ O site, visa de forma prática e simples, oferecer aos clientes os conteúdos ma
 Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em desenvolvimento, consiste em cada uma das etapas do projeto, determinadas em espaços específicos de tempo onde onde são alocados alguns trabalhos que devem ser executados até o término do projeto, priorizando sempre os trabalhos essenciais nas primeiras sprints. Após a conclusão de cada sprint, um novo sprint se inicia. Cada sprint geralmente dura de uma a três semanas.
 - [x] Sprint 0 - 07/09/2020 a 27/09/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%200)
 - [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
-- [ ] Sprint 2 - 19/10/2020 a 08/11/2020 _(Em andamento)_
-- [ ] Sprint 3 - 09/11/2020 a 29/11/2020
+- [x] Sprint 2 - 19/10/2020 a 08/11/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202)
+- [ ] Sprint 3 - 09/11/2020 a 29/11/2020 _(Em andamento)_
 - [ ] Apresentação Final - 30/11/2020 a 06/12/2020
 - [ ] Feira de Soluções - 07/12/2020 a 13/12/2020
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/CARDS.png)
+
 _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto._
 
-### Linha do Tempo
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Linha%20do%20tempo.PNG)
 
 ## Tecnologia do Site
@@ -85,7 +85,7 @@ Backend: PHP e MyQSL | Frontend: HTML, CSS e JavaScript
 
 ## Ferramentas
 ##### Desenvolvimento do Site
-Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
+Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | Demonstração do site: [InfiniteFree](https://infinityfree.net/)
 
 ##### Edição de Imagem
 Editor (Variedade de fontes): [Online Image Editor](https://www.online-image-editor.com) | Montagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
