@@ -12,5 +12,5 @@ Abaixo no Backlog da Sprint pode conferir as tarefas executadas e realocadas:
 ## Observações
 Na Sprint 2, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo. Conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão fundamentais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no backlog da Sprint 2.
 
-## FEEDBACK do Professor e cliente
+## FEEDBACK do professor e cliente
 _Aqui estarão as orientações, dicas e correções dadas pelos professores e clientes após essa Sprint._
