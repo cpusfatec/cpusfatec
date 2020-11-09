@@ -102,12 +102,14 @@ O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown deste projeto:
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Burndown.png)
 
-## Funcionamento do código
+## Funcionamento do codigo
 
 ##### Compra do Material de Português
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/GIF%20DE%20COMPRAS.gif)
 
-_*Por enquanto Português é o único Material Disponível_
+```diff
+- _*Por enquanto Português é o único Material Disponível_
+```
 
 ## Observações
 Na Sprint 2, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo. Conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão essenciais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no [backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202) da Sprint 2.
