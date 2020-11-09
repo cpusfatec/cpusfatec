@@ -85,7 +85,7 @@ Backend: PHP e MyQSL | Frontend: HTML, CSS e JavaScript
 
 ## Ferramentas
 ##### Desenvolvimento do Site
-Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | Demonstração do site: [InfiniteFree](https://infinityfree.net/)
+Escopo: [Wireframe](https://wireframe.cc/) | Template: [Desygner](https://desygner.com/) | Criação: [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) | Demonstração do site: [InfinityFree](https://infinityfree.net/)
 
 ##### Edição de Imagem
 Editor (Variedade de fontes): [Online Image Editor](https://www.online-image-editor.com) | Montagem: [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro&hl=pt_BR&gl=US) | Remover fundos: [Background Eraser](https://play.google.com/store/apps/details?id=com.handycloset.android.eraser&hl=en_US&gl=US)
