@@ -112,4 +112,4 @@ Utilizando modo Teste. Dados de cartão virtual do Mercado Pago.
 
 
 ## Observações
-Na Sprint 2, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo. Conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão essenciais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no [backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202) da Sprint 2.
+Na Sprint 2, planejamos mais tarefas para adequar o gráfico burndown dentro da projeção que atenda o prazo final. Conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão essenciais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no [backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202) da Sprint 2.
