@@ -1,5 +1,5 @@
 # Sprint 0
-Nessa Sprint entregamos o Template de todo o site após pesquisas sobre modelos de sites educacionais existentes e paleta de cores ideais para desenvolver material de estudos.
+Nessa Sprint entregamos uma ideia inicial para o Template de todo o site após pesquisas sobre modelos de sites educacionais existentes e paleta de cores ideais para desenvolver material de estudos.
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%200/cpu01_1_original.jpg)
 
 
