@@ -41,7 +41,7 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 
 ## O Projeto
 Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce).
-> Visite o site: http://cpu.rf.gd/
+> Visite o site: http://cpu.rf.gd/ _(Requer acesso com navegador no Modo Anônimo)_
 
 ## Objetivo
 O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
@@ -102,4 +102,4 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Burndown.png)
 
 ## Observações
-Na Sprint 2, projetamos recuperar a pontuação atrasada, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo, conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão fundamentais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no [backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202) da Sprint 2.
+Na Sprint 2, planejamos terminar mais tarefas para adequar o gráfico burndown na projeção dentro do prazo. Conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão essenciais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no [backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202) da Sprint 2.
