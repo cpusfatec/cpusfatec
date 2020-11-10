@@ -105,7 +105,7 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 ## Funcionamento do codigo
 
 ##### Compra do Material de Português e Sala de Estudos
-Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos". Funções programadas nos [códigos](https://github.com/cpusfatec/cpusfatec/tree/master/cpu).
+Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos". Funcionalidades programadas [_nestes códigos_](https://github.com/cpusfatec/cpusfatec/tree/master/cpu).
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/GIF%20DE%20COMPRAS.gif)
 
