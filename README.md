@@ -46,6 +46,10 @@ Este projeto propõe o desenvolvimento de um site para venda de materiais didát
 
 _* Requer acesso no modo de navegação anônima ou limpar o browser com CTRL+F5 para corrigir eventuais problemas no acesso._
 
+[Documentação do Projeto](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%203/DOCUMENTA%C3%87%C3%83O%20PI%20SPRINT%203.pdf)
+
+[Manual do Site](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%203/MANUAL%20DE%20INSTRU%C3%87%C3%95ES.pdf)
+
 ## Objetivo
 O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
 
@@ -113,8 +117,7 @@ Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a 
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/GIF%20DE%20COMPRAS.gif)
 
-**_*Por enquanto Português é o único Material Disponível_**
 
 
 ## Observações
-Na Sprint 3, planejamos conluir as tarefas faltantes, deixando as menos relevantes para o fim da Sprint, conluímos as essenciais para o funcionamento esperado do site, porém, as tarefas que ficaram para o final não foi possível serem concluídas. Aproximamos bastante do nosso planejamento no backlog e burndown. Pode conferir mais detalhes dessa entrega no [backlog da sprint 3 backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203).
+Na Sprint 3, planejamos conluir as tarefas faltantes, deixando as menos relevantes para o fim da Sprint, conluímos as essenciais para o funcionamento esperado do site, porém, as tarefas que ficaram para o final não foi possível serem concluídas. Aproximamos bastante do planejamento no backlog e burndown. Pode conferir mais detalhes dessa entrega no [backlog da sprint 3](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203).
