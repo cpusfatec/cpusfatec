@@ -43,6 +43,7 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 ## O Projeto
 Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce).
 > Visite o site: http://cpu.rf.gd/
+_* Requer acesso no modo de navegação anônima ou limpar o browser com CTRL+F5 para corrigir problemas no acesso.
 
 ## Objetivo
 O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
@@ -71,7 +72,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [x] Sprint 0 - 07/09/2020 a 27/09/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%200)
 - [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
 - [x] Sprint 2 - 19/10/2020 a 08/11/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202)
-- [ ] Sprint 3 - 09/11/2020 a 29/11/2020 _(Em andamento)_
+- [x] Sprint 3 - 09/11/2020 a 29/11/2020 - [_ver detalhes... ](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203)
 - [ ] Apresentação Final - 30/11/2020 a 06/12/2020
 - [ ] Feira de Soluções - 07/12/2020 a 13/12/2020
 
@@ -79,7 +80,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 
 _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto._
 
-![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Linha%20do%20tempo.PNG)
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%203/linha%20do%20tempo.PNG)
 
 ## Tecnologia do Site
 Backend: PHP e MyQSL | Frontend: HTML, CSS e JavaScript
@@ -100,7 +101,7 @@ O Product Backlog (Backlog do Produto) é uma lista de funcionalidades desejadas
 
 ## Burndown do Projeto
 O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes Scrum para representar o progresso do trabalho em desenvolvimento. Ou seja, após cada dia de trabalho o gráfico apresenta a porção de trabalho finalizada em comparação com o trabalho total planejado. Abaixo você confere o Burndown deste projeto:
-![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/Burndown.png)
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%203/burndown1.PNG)
 
 ## Funcionamento do codigo
 
