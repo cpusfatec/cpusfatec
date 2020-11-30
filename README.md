@@ -89,6 +89,7 @@ _CARD é uma forma de mensurar a dificuldade (projetada) de uma etapa do projeto
 
 ## Tecnologia do Site
 Backend: PHP e MyQSL | Frontend: HTML, CSS e JavaScript
+
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Imagens%20e%20Arquivos%20do%20Projeto/Polish_20201130_014137427.png)
 
 ## Ferramentas
