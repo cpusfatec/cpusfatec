@@ -114,12 +114,16 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 
 _CÓDIGOS [Disponíveis AQUI](https://github.com/cpusfatec/cpusfatec/tree/master/Codigos)_
 
+##### Carregando o Material
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%203/GIF-carregar-material.gif)
+
 ##### Compra do Material de Português e Sala de Estudos
 Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos".
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/GIF%20DE%20COMPRAS.gif)
 
-
+##### Acessando o Material (Texto, Vídeo e Jogo)
+![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%203/GIF-acessando-material.gif)
 
 ## Observações
 Na Sprint 3, planejamos conluir as tarefas faltantes, deixando as menos relevantes para o fim da Sprint, conluímos as essenciais para o funcionamento esperado do site, porém, as tarefas que ficaram para o final não foi possível serem concluídas. Finalizamos o site com as funcionalidades principais planejadas. As tarefas removidas (Notícias, Pesquisa e Estatísticas), não afetam o site. _Notícias e Pesquisas_ seriam adicionais e _Estatísticas_ o Administrador de vendas pode acompanhar no painel de sua conta pelo mercado pago. Pode conferir mais detalhes dessa última entrega no [backlog da sprint 3](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203).
