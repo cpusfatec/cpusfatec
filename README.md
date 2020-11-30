@@ -43,7 +43,8 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 ## O Projeto
 Este projeto propõe o desenvolvimento de um site para venda de materiais didáticos online (e-commerce).
 > Visite o site: http://cpu.rf.gd/
-_* Requer acesso no modo de navegação anônima ou limpar o browser com CTRL+F5 para corrigir problemas no acesso.
+
+_* Requer acesso no modo de navegação anônima ou limpar o browser com CTRL+F5 para corrigir eventuais problemas no acesso._
 
 ## Objetivo
 O site, visa de forma prática e simples, oferecer aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais, o setor que mais cresce no mercado de trabalho. Acompanhe nosso projeto e aprenda junto com a gente.
@@ -72,7 +73,7 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [x] Sprint 0 - 07/09/2020 a 27/09/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%200)
 - [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
 - [x] Sprint 2 - 19/10/2020 a 08/11/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202)
-- [x] Sprint 3 - 09/11/2020 a 29/11/2020 - [_ver detalhes... ](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203)
+- [x] Sprint 3 - 09/11/2020 a 29/11/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203)
 - [ ] Apresentação Final - 30/11/2020 a 06/12/2020
 - [ ] Feira de Soluções - 07/12/2020 a 13/12/2020
 
@@ -105,8 +106,10 @@ O Burndown chart ou gráfico de Burndown é o gráfico utilizado pelas equipes S
 
 ## Funcionamento do codigo
 
+_CÓDIGOS [Disponíveis AQUI](https://github.com/cpusfatec/cpusfatec/tree/master/Codigos)_
+
 ##### Compra do Material de Português e Sala de Estudos
-Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos". Funcionalidades programadas [_nestes códigos_](https://github.com/cpusfatec/cpusfatec/tree/master/cpu).
+Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a compra e abertura do material na "Sala de Estudos".
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/GIF%20DE%20COMPRAS.gif)
 
@@ -114,4 +117,4 @@ Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a 
 
 
 ## Observações
-Na Sprint 2, planejamos mais tarefas para adequar o gráfico burndown dentro da projeção que atenda o prazo final. Conseguimos concluir mais tarefas conforme planejado, porém não todas a mais que pretendíamos, e essas tarefas, que não eram tão essenciais neste momento foram realocadas para a a última Sprint (3). Para isso foi necessário desmembrar uma das tarefas que estava muito carregada, conforme apresentado no [backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202) da Sprint 2.
+Na Sprint 3, planejamos conluir as tarefas faltantes, deixando as menos relevantes para o fim da Sprint, conluímos as essenciais para o funcionamento esperado do site, porém, as tarefas que ficaram para o final não foi possível serem concluídas. Aproximamos bastante do nosso planejamento no backlog e burndown. Pode conferir mais detalhes dessa entrega no [backlog da sprint 3 backlog](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203).
