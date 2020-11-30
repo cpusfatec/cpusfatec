@@ -1,5 +1,14 @@
 # Sprint 3 (Final)
 
+## Todas Entregas dessa Sprint
+
+'''
+Documentação final do Projeto
+Manual de utilização do Site
+Sala de todas disciplinas com Texto, vídeos e Jogos
+Área Quem Somos
+'''
+
 Abaixo no Backlog da Sprint pode conferir as tarefas executadas e removidas:
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%203/Sprint%203.PNG)
 
