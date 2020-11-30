@@ -122,4 +122,4 @@ Utilizando modo Teste com dados de cartão virtual do Mercado Pago, efetuando a 
 
 
 ## Observações
-Na Sprint 3, planejamos conluir as tarefas faltantes, deixando as menos relevantes para o fim da Sprint, conluímos as essenciais para o funcionamento esperado do site, porém, as tarefas que ficaram para o final não foi possível serem concluídas. Aproximamos bastante do planejamento no backlog e burndown. Pode conferir mais detalhes dessa entrega no [backlog da sprint 3](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203).
+Na Sprint 3, planejamos conluir as tarefas faltantes, deixando as menos relevantes para o fim da Sprint, conluímos as essenciais para o funcionamento esperado do site, porém, as tarefas que ficaram para o final não foi possível serem concluídas. Aproximamos bastante do planejamento no backlog e burndown. Pode conferir mais detalhes dessa última entrega no [backlog da sprint 3](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203).
