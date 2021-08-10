@@ -78,8 +78,8 @@ Sprint é um termo utilizado na metodologia Scrum, um dos pilares do projeto em 
 - [x] Sprint 1 - 28/09/2020 a 17/10/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%201)
 - [x] Sprint 2 - 19/10/2020 a 08/11/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%202)
 - [x] Sprint 3 - 09/11/2020 a 29/11/2020 - [_ver detalhes..._](https://github.com/cpusfatec/cpusfatec/tree/master/Sprint%203)
-- [ ] Apresentação Final - 30/11/2020 a 06/12/2020
-- [ ] Feira de Soluções - 07/12/2020 a 13/12/2020
+- [x] Apresentação Final - 30/11/2020 a 06/12/2020
+- [x] Feira de Soluções - 07/12/2020 a 13/12/2020
 
 ![](https://github.com/cpusfatec/cpusfatec/blob/master/Sprint%202/CARDS.png)
 
