@@ -29,7 +29,7 @@ Este trabalho foi elaborado em condições peculiares, um desafio aos professore
 - [Linkedin](https://www.linkedin.com/in/rafael-p-caje-8046826b/) | [Guithub](https://github.com/Rafael-Caje) | Email: rafael.caje@fatec.sp.gov.br
 
 #### :mortar_board: Felippe de Lima Luna - Time de Desenvolvimento
-- [Linkedin](https://www.linkedin.com/in/felippe-lima-b12418b5/) | [Guithub](https://github.com/Felippe27) | Email: felippe.luna@fatec.sp.gov.br
+- [Linkedin](https://www.linkedin.com/in/felippe-lima-b12418b5/) | [Guithub](https://github.com/Felippe27) | Email: felippe.luna@fatec.sp.gov.brafaf
 
 #### :mortar_board: Anderson Lira - Time de Desenvolvimento
 - [Linkedin](https://www.linkedin.com/in/anderson-lira-4b2a5b1b9/) | [Guithub](https://github.com/alira1984) | Email: anderson.lira2@fatec.sp.gov.br
